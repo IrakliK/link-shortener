@@ -5,7 +5,7 @@ Find the project requirements here: [link-shortener](https://www.codementor.io/p
 
 ## Tech/framework used
 
-Built with VueJs, Tailwind CSS
+Built with [VueJs](https://vuejs.org/), [Tailwind CSS](https://tailwindcss.com/docs)
 
 ## Screenshots and demo
 
