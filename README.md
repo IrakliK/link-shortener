@@ -5,7 +5,7 @@ Find the project requirements here: [link-shortener](https://www.codementor.io/p
 
 ## Tech/framework used
 
-Built with \_\_\_
+Built with VueJs
 
 ## Screenshots and demo
 
