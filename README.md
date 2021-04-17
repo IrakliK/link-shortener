@@ -15,6 +15,34 @@ Screenshots of your app and/or a link to your live demo
 
 Instructions for other developers on how to install and run your code on their local environment.
 
+### Project setup
+
+```
+yarn install
+```
+
+### Compiles and hot-reloads for development
+
+```
+yarn serve
+```
+
+### Compiles and minifies for production
+
+```
+yarn build
+```
+
+### Lints and fixes files
+
+```
+yarn lint
+```
+
+### Customize configuration
+
+See [Configuration Reference](https://cli.vuejs.org/config/).
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
