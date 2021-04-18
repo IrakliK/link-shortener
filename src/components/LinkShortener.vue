@@ -1,15 +1,16 @@
 <template>
-  <div>
+  <div class="flex justify-center flex-col items-center">
     <h1>Link Shortener</h1>
-    <p class="text-blue-900 text-center my-2">Hello World</p>
+    <UrlForm />
   </div>
 </template>
 
 <script>
+import UrlForm from "../components/UrlForm.vue";
 export default {
   name: "LinkShortener",
-  props: {
-    msg: String,
+  components: {
+    UrlForm,
   },
 };
 </script>
