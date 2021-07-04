@@ -12,3 +12,7 @@
     @apply text-xl;
   }
 }
+
+.buttonDisabled {
+  opacity: 50%;
+}

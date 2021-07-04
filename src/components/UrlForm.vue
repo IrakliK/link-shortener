@@ -21,7 +21,8 @@
       }}</span>
       <div class="mt-3">
         <button
-          class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded"
+          class="bg-blue-500 text-white font-bold py-2 px-4 rounded"
+          v-bind:class="{ buttonDisabled: !isValid }"
           :disabled="!isValid"
           type="submit"
         >
