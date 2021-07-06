@@ -7,10 +7,6 @@ Find the project requirements here: [link-shortener](https://www.codementor.io/p
 
 Built with [VueJs](https://vuejs.org/), [Tailwind CSS](https://tailwindcss.com/docs)
 
-## Screenshots and demo
-
-Screenshots of your app and/or a link to your live demo
-
 ## Installation
 
 Instructions for other developers on how to install and run your code on their local environment.
